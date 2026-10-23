@@ -15,14 +15,6 @@
 
 </div>
 
-## 📈 Activité récente
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LunetteRigide&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions" alt="Graphique d'activité" />
-
-</div>
-
 ---
 
 <div align="center">
