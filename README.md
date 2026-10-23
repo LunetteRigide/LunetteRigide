@@ -12,8 +12,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunetteRigide&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&card_width=500&title_color=7aa2f7" alt="Langages les plus utilisés" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunetteRigide&layout=pie&theme=tokyonight&hide_border=true&langs_count=10&card_width=400&title_color=7aa2f7" alt="Répartition des langages" />
-
 </div>
 
 ---
