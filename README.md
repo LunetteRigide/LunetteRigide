@@ -6,7 +6,7 @@
 
 ---
 
-## 💻 Langages de code que j'utilise
+## 💻 Programming languages ​​I use
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Mes stats GitHub (depuis le début)
+## 📊 My GitHub stats (from the beginning)
 
 <div align="center">
 
