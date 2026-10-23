@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=TON_PRENOM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20en%20apprentissage%20continu&descAlignY=58&descSize=18" alt="Bannière" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Salut,+bienvenue+sur+mon+profil+%F0%9F%91%8B;Passionn%C3%A9+de+code+et+de+C;Toujours+en+train+d'apprendre" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LunetteRigide&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20en%20apprentissage%20continu&descAlignY=58&descSize=18" alt="Bannière" />
 
 </div>
 
