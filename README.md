@@ -17,14 +17,6 @@
 
 </div>
 
-## 🔥 Régularité
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LunetteRigide&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak GitHub" />
-
-</div>
-
 ## 📈 Activité récente
 
 <div align="center">
