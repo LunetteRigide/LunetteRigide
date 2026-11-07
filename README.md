@@ -32,15 +32,26 @@ Les noms de logos disponibles : https://simpleicons.org
 
 ---
 
-## 📊 Languages I use & GitHub stats
+## 🎓 Study path
 
-<div align="center">
+![42](https://img.shields.io/badge/École_42-000000?style=for-the-badge&logo=42&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunetteRigide&layout=donut&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=10&card_width=500&title_color=7aa2f7" alt="Most used languages" />
+Student at **École 42**, a project-based school where you learn by building and by reviewing each other's work, with no teachers and no lectures.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LunetteRigide&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+### 📚 Projects
 
-</div>
+| Project | What it is | Language |
+|---|---|---|
+| **libft** | My own C standard library, rebuilt from scratch | C |
+| **ft_printf** | A re-implementation of `printf` | C |
+| **get_next_line** | Reading a file line by line | C |
+
+<!--
+Pour ajouter un projet, copie une ligne du tableau :
+| **nom_du_projet** | Courte description | Langage |
+Tu peux aussi ajouter ton campus et ton année d'entrée au-dessus du tableau.
+-->
+
 
 ---
 
