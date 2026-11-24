@@ -39,21 +39,6 @@ Les noms de logos disponibles : https://simpleicons.org
 
 Student at **École 42**, a project-based school where you learn by building and by reviewing each other's work, with no teachers and no lectures.
 
-### 📚 Projects
-
-| Project | What it is | Language |
-|---|---|---|
-| **libft** | My own C standard library, rebuilt from scratch | C |
-| **ft_printf** | A re-implementation of `printf` | C |
-| **get_next_line** | Reading a file line by line | C |
-
-<!--
-Pour ajouter un projet, copie une ligne du tableau :
-| **nom_du_projet** | Courte description | Langage |
-Tu peux aussi ajouter ton campus et ton année d'entrée au-dessus du tableau.
--->
-
-
 ---
 
 <div align="center">
